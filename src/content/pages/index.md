@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Adam Moore
+tagline: Media & Entertainment Technology Leader
+featuredImage: /assets/adam-moore-bafta-britannia-awards-2.jpg
 cta:
-  ctaText: Know more
+  ctaText: Learn more about Adam Moore
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Adam is an experienced technology leader in the Media & Entertainment sector, originally from the UK and now based in Los Angeles.
