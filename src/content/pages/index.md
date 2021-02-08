@@ -8,4 +8,6 @@ cta:
   ctaText: Learn more about Adam Moore
   ctaLink: /about
 ---
-Adam is an experienced technology leader in the Media & Entertainment sector, originally from the UK and now based in Los Angeles.
+Adam is an experienced technology leader in the Media & Entertainment sector.
+
+Originally from the UK and now based in Los Angeles.
