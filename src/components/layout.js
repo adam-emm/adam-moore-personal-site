@@ -17,6 +17,7 @@ query LayoutQuery {
   site {
     siteMetadata {
       siteTitle: title
+      siteImage: image
     }
   }
 }
@@ -31,7 +32,8 @@ const Layout = ({children, className, props}) => {
   return (
     <div className="primary-container">
       <Header>
-        <Logo title={siteTitle} />
+//        <Logo title={siteTitle} />
+          <Logo title={siteImage} />
         <Navigation/>
         <div sx={layoutStyle.theme}>
           <Theme/>
