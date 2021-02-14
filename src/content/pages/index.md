@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Adam Moore
-tagline: Media & Entertainment Technology Leader
+tagline: ...Media & Entertainment Technology Leader...
 featuredImage: /assets/adam-moore-bafta-britannia-awards-md.webp
 cta:
   ctaText: Learn more about Adam Moore
